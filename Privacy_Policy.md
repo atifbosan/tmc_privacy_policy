@@ -46,7 +46,7 @@ All data collected via the TMC app is used strictly for internal organizational 
 
  - Managing and resolving employee-submitted complaints
 
-   Recording, viewing, and tracking employee visits
+ - Recording, viewing, and tracking employee visits
 
  - Generating and downloading work-related reports
 
