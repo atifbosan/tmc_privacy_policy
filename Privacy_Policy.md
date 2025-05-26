@@ -1,4 +1,4 @@
-# Privacy Policy for TMC (Textile Marketing Company)
+# Privacy Policy:
 Effective Date: [25-05-2025]
 
 TMC (Textile Marketing Company) is committed to protecting the privacy and confidentiality of its employees' data. This Privacy Policy outlines how your information is collected, used, and safeguarded when using the TMC mobile application.
