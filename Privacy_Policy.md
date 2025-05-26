@@ -42,13 +42,13 @@ We collect the following types of data from users:
 ## 3. How We Use Your Information
 All data collected via the TMC app is used strictly for internal organizational purposes, including:
 
-Employee attendance tracking
+ - Employee attendance tracking
 
-Managing and resolving employee-submitted complaints
+ - Managing and resolving employee-submitted complaints
 
-Recording, viewing, and tracking employee visits
+   Recording, viewing, and tracking employee visits
 
-Generating and downloading work-related reports
+ - Generating and downloading work-related reports
 
 ## 4. Data Sharing and Disclosure
 We do not share, sell, or disclose any personal or organizational data to third parties. All information collected is stored securely and used only within Textile Marketing Company for management and operational purposes.
@@ -56,11 +56,11 @@ We do not share, sell, or disclose any personal or organizational data to third 
 ## 5. Data Security
 We take data security seriously and implement appropriate technical and organizational measures to protect your information, including:
 
-Secure login authentication
+ - Secure login authentication
 
-Encrypted data transmission
+ - Encrypted data transmission
 
-Access control restricted to authorized personnel only
+ - Access control restricted to authorized personnel only
 
 ## 6. Location Data
 The app collects location data (latitude and longitude) only during visit creation to track visits as part of organizational field activities. Location data is never used for tracking employees outside the scope of official visits and is not shared with any third party.
@@ -68,7 +68,7 @@ The app collects location data (latitude and longitude) only during visit creati
 ## 7. Media Access
 The app requests access to your device’s microphone and camera to enable:
 
-Uploading voice notes and images for complaints and visits
+ - Uploading voice notes and images for complaints and visits
 
 This access is strictly limited to features requiring media input and is used only within the app.
 
@@ -78,8 +78,8 @@ Employees do not have options to modify or delete records once submitted. Access
 ## 9. Third-party Services
 The TMC app does not use any third-party SDKs or services that collect user data.
 
-10. Children’s Privacy
+## 10. Children’s Privacy
 The TMC app is strictly intended for employees of Textile Marketing Company and is not directed to children under the age of 13.
 
-## -11. Changes to This Privacy Policy
+## 11. Changes to This Privacy Policy
 We may update this Privacy Policy from time to time. All updates will be communicated via the app or internal organizational notices. Continued use of the app indicates your acknowledgment of the updated policy.
