@@ -58,8 +58,6 @@ We take data security seriously and implement appropriate technical and organiza
 
  - Secure login authentication
 
- - Encrypted data transmission
-
  - Access control restricted to authorized personnel only
 
 ## 6. Location Data
