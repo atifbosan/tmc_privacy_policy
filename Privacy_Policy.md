@@ -9,35 +9,35 @@ TMC is a secure internal-use mobile application developed exclusively for employ
 ## 2. Information We Collect
 We collect the following types of data from users:
 
-- Personal Information
+-  Personal Information
 
-User ID and login credentials (provided by TMC admin only)
+    - User ID and login credentials (provided by TMC admin only)
 
-Name and employee-related details
+    - Name and employee-related details
 
-Attendance Data
+-  Attendance Data
 
-Check-in and check-out time
+    -  Check-in and check-out time
 
-Date and time logs
+    -  Date and time logs
 
-Complaint Management Data
+-  Complaint Management Data
 
-Text-based complaints
+    -  Text-based complaints
 
-Uploaded images and audio recordings related to complaints
+    -  Uploaded images and audio recordings related to complaints
 
-Visit Tracking
+-  Visit Tracking
 
-Visit records (created and viewed by employee)
+    -  Visit records (created and viewed by employee)
 
-Images and audio related to visits
+    -  Images and audio related to visits
 
-GPS coordinates (latitude and longitude) for tracking visits
+    -  GPS coordinates (latitude and longitude) for tracking visits
 
-Reports
+-  Reports
 
-Download and view organization-related reports from the server
+    -  Download and view organization-related reports from the server
 
 ## 3. How We Use Your Information
 All data collected via the TMC app is used strictly for internal organizational purposes, including:
