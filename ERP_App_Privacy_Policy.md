@@ -11,7 +11,7 @@ We collect the following types of data from users:
 
 -  Personal Information
 
-    - User ID and login credentials (provided by TMC admin only)
+    - User ID and login credentials (provided by Organization admin only)
 
     - Name and employee-related details
 
