@@ -40,7 +40,7 @@ We collect the following types of data from users:
     -  Download and view organization-related reports from the server
 
 ## 3. How We Use Your Information
-All data collected via the TMC app is used strictly for internal organizational purposes, including:
+All data collected via the ERP App is used strictly for internal organizational purposes, including:
 
  - Employee attendance tracking
 
